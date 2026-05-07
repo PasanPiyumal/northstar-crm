@@ -1,6 +1,3 @@
-A professional README.md is critical for this assessment because it serves as the "user manual" for the person evaluating your project. It should clearly explain what the app does, how to set it up, and provide the required links.
-
-Create a file named README.md in your project's root directory and use this structure:
 
 Northstar CRM - Full Stack Assessment
 🔗 Project Links
